@@ -86,7 +86,6 @@ John Wick is an automated system that detects negative content in real-time, ana
 
 <img width="1415" height="1403" alt="image" src="https://github.com/user-attachments/assets/a6e26b68-2272-49f7-b927-aca3e97aa8ee" />
 
-
 ---
 
 ## Current Performance
@@ -128,8 +127,11 @@ Every response backed by government documents, court orders, and official certif
 ### Empowerment: 
 WhatsApp sharing means every supporter can instantly respond to false allegations with documented proof - in family groups, friend conversations, anywhere truth needs to be shared.
 <br><br>
-<img width="1541" height="904" alt="image" src="https://github.com/user-attachments/assets/a72b7c52-d819-4a80-88e5-a72f6f0faba1" />
 <br><br>
+![proof_1_30](https://github.com/user-attachments/assets/b9d85532-2fc8-4945-a671-ea0a719ff041)
+<br><br>
+
+
 ### Scale: 
 Monitors hundreds of sources simultaneously. Human teams can't match this coverage.
 
